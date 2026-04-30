@@ -8,7 +8,7 @@ This is a fullstack application for managing daily timesheets. Please refer to t
 
 ## Directory Structure
 - my-daily-timesheet-web for frontend web
-- my-dailiy-timesheet-svc for backend (spring boot 4)
+- my-daily-timesheet-svc for backend (spring boot 4)
 
 ## User Access
 
